@@ -25,9 +25,12 @@
 - Автор программы в файле passw_2.com испольует хэш для проверки пароля. Хэш введенных данных сравнивается с хэшом пароля, и в случае совпадения в регистр ax записывается 1, иначе - 0. Патч меняет код так, чтобы в ax в любом случае записывалось 1. (В репозитории находится файл до взлома)
 
   - **Было:**
-    <img width="958" alt="image" src="https://github.com/1progwriter1/Patch/assets/112411575/f2adb71d-bb69-4b6a-9367-ab91c7c0267c">
+    <img width="997" alt="00000050 7504" src="https://github.com/1progwriter1/Patch/assets/112411575/026676ce-3676-4c3b-b8b5-fce9ae78d61e">
+
 
   - **Стало:**
-    <img width="997" alt="image" src="https://github.com/1progwriter1/Patch/assets/112411575/f1eb384d-9f66-4ee1-9243-043e93161650">
+    <img width="997" alt="00000050 7504" src="https://github.com/1progwriter1/Patch/assets/112411575/3a188c23-efc2-4a11-b13e-76c54305008e">
+
+
 
 
